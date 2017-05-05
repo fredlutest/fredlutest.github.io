@@ -1,18 +1,18 @@
 # Site settings
-title: Josh Gerdes
-description: 'Founder of Lost Leaf Studio, developer, consultant, cyclist, soccer fan, nature enthusiast and lover of beer.'
-url: 'http://joshgerdes.com' 
+title: Fred Lu
+description: 'Reading, Thinking & Travelling'
+url: 'fredericklu.github.io' 
 baseurl: '/'
-google_analytics: 'UA-501066-1'
+# google_analytics: 'UA-501066-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  # facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Fred LU'
+  email: fredlu@yeah.net
+  twitter_username: ewiflu
+  facebook_username: dutchflu
+  github_username:  fredericklu
+  # linkedin_username:  joshgerdes
 
 defaults:
   -
